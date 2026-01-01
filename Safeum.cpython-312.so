@@ -1,0 +1,1 @@
+rm -rf SafeUM && git clone https://github.com/techgod143/SafeUM && cd SafeUM && python ayush.py
